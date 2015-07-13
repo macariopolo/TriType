@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Triangle type</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="triangle_type_determination">Triangle-type</string>
+    <string name="side1">Side 1</string>
+    <string name="side2">Side 2</string>
+    <string name="side3">Side 3</string>
+    <string name="get_type">Get type</string>
+    <string name="equilateral">Equilateral</string>
+    <string name="isosceles">Isosceles</string>
+    <string name="scalene">Scalene</string>
+    <string name="not_a_triangle">Not a triangle</string>
+    <string name="number_expected">Number expected</string>
+    <string name="title_activity_main_menu">Triangle-type determination</string>
+    <string name="by_hand">Writing</string>
+    <string name="with_the_accelerometer">Moving the phone</string>
+    <string name="instructions">Choose a method to assign legths to the three sides of the triangle</string>
+    <string name="instructions_moving">Select a side. Then, move the phone to set its length.</string>
+    <string name="instructions_web">Write the lengths of the three sides. After pressing the button, your phone will recover the triangle type from a web server</string>
+    <string name="title_activity_moving">Triangle type (moving)</string>
+    <string name="write_the_lengths">Write the lengths of the three sides and press the button. The triangle type will be determined locally:</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_drawing">Triangle type (drawing)</string>
+    <string name="use_finger">Select a side. Then, draw the length with your finger. When you have finished, press the button to determine the triangle type.</string>
+    <string name="drawing">Drawing</string>
+    <string name="title_activity_main">Triangle-type determination</string>
+    <string name="title_activity_drawing_activity2">Draw the length</string>
+    <string name="title_activity_get_type_by_web">Triangle-type (web)</string>
+	<string name="by_web">Get type by asking a web server</string>
+    <string name="credits">This app implements the Bertrand Myers\' triangle-type determination problem. Its goal is only to provide a benchmark
+	    implementation for comparing testing techniques in Android apps. Developed by the Alarcos Research Group: http://alarcos.esi.uclm.es</string>
+    <string name="download">Download the code from https://github.com/macariopolouclm/TriType</string>
+</resources>
